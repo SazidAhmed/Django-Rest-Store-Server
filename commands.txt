@@ -1,0 +1,10 @@
+pip install djangorestframework
+pip install django-filter
+pip install django-cors-headers
+pip install djoser
+pip install pillow
+
+$ django-admin startproject rest_store
+$ python manage.py startapp core apps/core
+$ python manage.py migrate
+$ py manage.py createsuperuser

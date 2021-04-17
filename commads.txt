@@ -1,0 +1,7 @@
+https://www.npmjs.com/package/vue-cli-plugin-tailwind
+
+//tailwind processor
+npm run build-css
+
+//tailwind config
+npx tailwindcss init --full 
